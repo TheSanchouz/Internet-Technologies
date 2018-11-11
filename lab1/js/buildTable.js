@@ -51,5 +51,4 @@ function buildTable(arr) {
     body.appendChild(table);
 
     table.setAttribute("border", "1");
-    table.setAttribute("border", "1");
 }
